@@ -1,0 +1,15 @@
+1) Parent class for AnimBP
+	created but unimplemented... you will remove all things that are specific to dwarf but keep all that are generally true.
+2) Parent class for unit (done but not tested. the basic functionality currently works)
+3) Place more weight on the controller than you do the unit. The unit is a puppet. The controller makes all descisions.
+4) Consider a swapping mechanism for weapons. 3 sockets, LH, RH, BACK and weapons are only picked up if required hands are empty. Therefore you will also need a drop function.
+
+Future goals.
+
+1) Level ups 
+2) XP
+3) Better AI for enemies
+	Attacking as a group
+	intercepting rather than following (math I can show you)
+	
+
